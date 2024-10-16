@@ -41,3 +41,39 @@ As a Administrator i want to monitor and manage incidents such as bugs and user 
 - The hint should highlight the best move based on the current game state.
 - The system should limit the number of hints available per game.
 - The hint system should adapt to the player's skill level, providing more or less detailed hints depending on experience.
+
+1. Monitor User Accounts
+Administrator can view a list of user accounts with registration, suspension, and deletion details.
+System provides alerts for new registrations, account suspensions, and deletions.
+Administrator can search and filter accounts by status (active, suspended, deleted).
+Administrator can export user account data.
+Administrator can access historical records of account actions.
+
+2. Manage the Leaderboard and Set Rules
+Administrator can adjust leaderboard settings and entry rules.
+Leaderboard updates automatically based on predefined rules.
+System blocks users who violate rules from appearing on the leaderboard.
+Administrator can manually adjust or reset leaderboard standings.
+Administrator can export leaderboard data for review.
+
+3. Update the Game with New Puzzles and Features
+Administrator can add, edit, or delete puzzles and features.
+System notifies users when new content is available.
+Administrator can schedule new content releases.
+Administrator can preview new puzzles and features before publishing.
+Administrator can categorize and organize new content for easy navigation.
+
+4. Monitor Gameplay Stats and User Activity
+Administrator can view reports on active users, session lengths, and feature engagement.
+System provides visualizations of user activity trends.
+Administrator can filter data by time periods or user demographics.
+Administrator can export gameplay stats for further analysis.
+System highlights the most popular features based on user engagement.
+
+5. Monitor and Manage Incidents
+Administrator has access to an incident management dashboard for tracking bugs and complaints.
+System categorizes incidents by severity (critical, major, minor).
+Administrator can assign incidents to team members and track progress.
+System sends notifications for new incidents and status updates.
+Administrator can resolve and close incidents through the dashboard.
+
