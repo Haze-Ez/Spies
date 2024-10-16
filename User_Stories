@@ -18,4 +18,26 @@ As a Administrator i want to monitor gameplay stats and user activity so that i 
 
 As a Administrator i want to monitor and manage incidents such as bugs and user complaints so i can ensure smooth gameplay.
 
+ Acceptance criteria:
 
+(numbers into the grid)
+- The player can click on a cell and enter a valid number (1-9).
+- The system should prevent the player from entering invalid numbers (outside 1-9).
+
+(learn the basics of Sudoku)
+- The game should include a tutorial mode explaining basic Sudoku rules.
+- There should be guided exercises or examples demonstrating valid moves.
+
+( I want to play against others at my level )
+- The system should allow the player to set or join multiplayer games with difficulty levels (easy, medium, hard, expert).
+- Matchmaking should pair players with others of similar skill levels based on performance or rating.
+
+(I want to practice on my own)
+- The system should offer a solo practice mode with varying difficulty levels.
+- Players should have access to feedback (correct/wrong moves) and hints in practice mode.
+
+(I want to request hints)
+- The player should be able to request a hint at any point during offline play.
+- The hint should highlight the best move based on the current game state.
+- The system should limit the number of hints available per game.
+- The hint system should adapt to the player's skill level, providing more or less detailed hints depending on experience.
