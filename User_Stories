@@ -77,3 +77,21 @@ Administrator can assign incidents to team members and track progress.
 System sends notifications for new incidents and status updates.
 Administrator can resolve and close incidents through the dashboard.
 
+
+Functional Requirements
+1.Puzzle Generation: The system must be able to generate Sudoku puzzles of varying difficulty levels (easy, medium, hard).
+
+2.User Input: Users must be able to enter numbers into the Sudoku grid, including the ability to correct or erase previously entered numbers.
+
+3.Validation: The game must validate user inputs to ensure they follow Sudoku rules (no repeating numbers in rows, columns, or 3x3 subgrids).
+
+4.Hint System: Users must have the option to request hints, which provide suggestions for valid numbers in empty cells.
+
+5.Save/Load Game: The system must allow users to save their progress and load previously saved games.
+
+Non-Functional Requirements
+1.Performance: The game should respond to user inputs within 100 milliseconds to ensure a smooth experience.
+
+2.Usability: The user interface must be intuitive and easy to navigate for users of all skill levels, with clear instructions and feedback.
+
+3.Accessibility: The game should support screen readers and have options for colorblind modes to ensure accessibility for all users.
