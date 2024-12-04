@@ -43,7 +43,11 @@ public class Cell {
     public void setValue(int value) {
         this.value = value;
     }
-
+  /**
+     * Checks if the cell's value is fixed.
+     *
+     * @return true if the cell is fixed, false otherwise
+     */
     public boolean isFixed() {
         return isFixed;
     }
